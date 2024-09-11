@@ -1,0 +1,10 @@
+1) SOMA = 77
+
+2)
+a) 9, números impáres
+b) 128, números 2^x
+c) 49, número vezes ele mesmo
+d) 100, cada número elevado a ele mesmo
+e) 13, sequência de fibonacci
+f) 200, todos os números começam com a letra D
+
